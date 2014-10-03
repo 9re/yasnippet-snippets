@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: <li><a href="#"></a></li>
+# key: lih
+# binding: direct-keybinding
+# --
+<li><a href="#">$0</a></li>

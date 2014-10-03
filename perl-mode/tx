@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: use Text::Xslate;
+# key: tx
+# binding: direct-keybinding
+# --
+use Text::Xslate;

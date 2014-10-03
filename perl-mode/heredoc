@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: heredoc
+# key: heredoc
+# binding: direct-keybinding
+# --
+<< "$1";
+$0
+$1

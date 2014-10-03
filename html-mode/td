@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: <td></td>
+# key: td
+# binding: direct-keybinding
+# --
+<td>$0</td>
+

@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: <pre></pre>
+# key: pre
+# binding: direct-keybinding
+# --
+<pre>$0</pre>
+

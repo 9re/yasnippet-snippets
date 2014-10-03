@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: <ol></ol>
+# key: ol
+# binding: direct-keybinding
+# --
+<ol>$0</ol>
+

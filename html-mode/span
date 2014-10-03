@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: <span></span>
+# key: span
+# binding: direct-keybinding
+# --
+<span>$0</span>
+

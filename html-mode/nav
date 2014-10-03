@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: <nav></nav>
+# key: nav
+# binding: direct-keybinding
+# --
+<nav>$0</nav>
+

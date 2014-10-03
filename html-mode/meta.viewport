@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: <meta name="viewport" content="width=640, initial-scale=.5, maximum-scale=.5,target-densitydpi=device-dpi" />
+# key: metasp
+# binding: direct-keybinding
+# --
+<meta name="viewport" content="width=640, initial-scale=.5, maximum-scale=.5,target-densitydpi=device-dpi" />
