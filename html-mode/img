@@ -3,5 +3,5 @@
 # key: img
 # binding: direct-keybinding
 # --
-<img>$0</img>
+<img src="$1" />
 

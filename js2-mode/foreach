@@ -1,0 +1,10 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: foreach
+# key: foreach
+# binding: direct-keybinding
+# --
+for (var $1 in $2) {
+    if ($2.hasOwnProperty($1)) {
+        var $3 = $2[$1];
+    }
+}

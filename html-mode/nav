@@ -3,5 +3,7 @@
 # key: nav
 # binding: direct-keybinding
 # --
-<nav>$0</nav>
+<nav class="$1">
+$0
+</nav> <!-- .$1 -->
 
